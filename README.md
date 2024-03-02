@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devdeep2003
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on making static web pages
+- 💞️ I’m looking to collaborate on making simple and robust applications.
 - 📫 How to reach me devlopment.deep2003@gmail.com
 
 <!---
