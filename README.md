@@ -9,7 +9,7 @@
 
 * 🛠️ Interested in building **scalable backend systems, REST APIs, real-time applications, and full-stack products**
 
-* 👨‍💻 Explore my projects at [deep-chakraborty-portfolio.vercel.app](https://deep-chakraborty-portfolio.vercel.app/)
+* 👨‍💻 Explore my projects at [deep-chakraborty-portfolio.vercel.app](https://portfolio-flame-rho-22.vercel.app/))
 
 * 💬 Ask me about **Backend Development, Node.js, Express.js, TypeScript, PostgreSQL, and REST APIs**
 
