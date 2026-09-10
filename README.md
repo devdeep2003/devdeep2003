@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Deep Chakraborty</h1>
-<h3 align="center">Backend Enthusiast | Node.js | Express.js</h3>
+<h1 align="center">Hi, I'm Deep Chakraborty 👋</h1>
+<h3 align="center">Software Engineer | Backend & Full-Stack Development</h3>
 
-- 🔭 I’m currently working on **Job Portal Application**
+* 💻 I work primarily with **Node.js, Express.js, TypeScript, PostgreSQL, React, and Next.js**
 
-- 🌱 I’m currently learning **Web sockets , Redis**
+* 🔭 Currently building **Yogorys**, a real-time yoga competition scoring platform using **Node.js, Express, PostgreSQL, Drizzle ORM, React, and Socket.IO**
 
-- 👨‍💻 All of my projects are available at [https://deep-chakraborty-portfolio.vercel.app/](https://deep-chakraborty-portfolio.vercel.app/)
+* 🌱 Currently strengthening my skills in **System Design, Redis, WebSockets, Linux, and DevOps**
 
-- 💬 Ask me about **Backend Development**
+* 🛠️ Interested in building **scalable backend systems, REST APIs, real-time applications, and full-stack products**
 
-- 📫 How to reach me **deepchakraborty.work2003@gmail.com**
+* 👨‍💻 Explore my projects at [deep-chakraborty-portfolio.vercel.app](https://deep-chakraborty-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pvR_g-cQtwCThGCk1pp2sTlbzHIUbXgU/view?usp=drive_link](https://drive.google.com/file/d/1pvR_g-cQtwCThGCk1pp2sTlbzHIUbXgU/view?usp=drive_link)
+* 💬 Ask me about **Backend Development, Node.js, Express.js, TypeScript, PostgreSQL, and REST APIs**
 
-- ⚡ Fun fact **I created a Placement Notifier which would notify about placement mails from college email and flag them as UNSEEN but it pretty much backfired**
+* 📫 Reach me at **[deepchakraborty.work2003@gmail.com](mailto:deepchakraborty.work2003@gmail.com)**
+
+* 📄 [View my Resume](https://drive.google.com/file/d/1cd39VfFEM8g2LdYoywqtvLtKYr3sG1-5/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
