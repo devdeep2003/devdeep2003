@@ -5,7 +5,7 @@
 
 * 🔭 Currently building **Yogorys**, a real-time yoga competition scoring platform using **Node.js, Express, PostgreSQL, Drizzle ORM, React, and Socket.IO**
 
-* 🌱 Currently strengthening my skills in **System Design, Redis, WebSockets, Linux, and DevOps**
+* 🌱 Currently strengthening my skills in **AI/ML**
 
 * 🛠️ Interested in building **scalable backend systems, REST APIs, real-time applications, and full-stack products**
 
